@@ -1,2 +1,2 @@
 # Blockchain
- Code for creating a blockchain
+ Code for creating a blockchain using Python.
